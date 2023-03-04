@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "cowsay": "cowsay hola mundo"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "cowsay": "^1.5.0",
+    "nodemon": "^2.0.21"
+  }
+}
